@@ -1,0 +1,26 @@
+body {
+    background-color: aqua;
+}
+
+table,td,tr {
+     border:2px solid
+}
+table{
+    width: 50%;
+    height: 50%;
+}
+#prvi_red{
+    color:red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.warning{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 23px;
+}
+
